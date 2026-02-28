@@ -5,8 +5,16 @@
 ## Portfolio
 
 https://portfolio-vn3r.onrender.com
+---
+
+## Contact
+
+For meaningful engineering discussions:
+
+durgeshmaurya0998@gmail.com
 
 ---
+
 
 ## Technologies I Work With
 
